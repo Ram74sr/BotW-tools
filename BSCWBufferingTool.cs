@@ -8,6 +8,7 @@ class BSCWBufferingTool
         // See https://aka.ms/new-console-template for more information
         // This program is a tool for speedrunning The Legend of Zelda : Breath of the Wild, it allows you to be told when to buffer during a Buffered SCW.
         // The time needed to execute the while loop is meant to compensate the lag frames.
+        // I apologize because this code is horrible (at least it works)
         int frames;
         do
         {
